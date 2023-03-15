@@ -49,7 +49,7 @@
 - 민감도 분석 
 - 변수 선택
 
-  [코드 참고](https://github.com/hyorea1/Blood-Pressure-Prediction/blob/main/data%20anaysis%20%26%20preprocessing/Data_analysis_and_preprocessing.ipynb)
+  [코드 참고](https://github.com/hyorea1/Blood-Pressure-Prediction/blob/main/data%20analysis%20%26%20preprocessing/Data_analysis_and_preprocessing.ipynb)
 
 
 ### ▪️  모델 설계 
