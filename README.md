@@ -49,13 +49,13 @@
 - 민감도 분석 
 - 변수 선택
 
-코드 참고
+  [코드 참고](https://github.com/hyorea1/Blood-Pressure-Prediction/tree/main/data%20anaysis%20%26%20preprocessing)
 
 
 ### ▪️  모델 설계 
 
-- Tensorflow
-- PyTorch
+- [Tensorflow](https://github.com/hyorea1/Blood-Pressure-Prediction/blob/main/DNN%20model/Tensorflow.ipynb)
+- [PyTorch](https://github.com/hyorea1/Blood-Pressure-Prediction/blob/main/DNN%20model/PyTorch.ipynb)
 
 
 
